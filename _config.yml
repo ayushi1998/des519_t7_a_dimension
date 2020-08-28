@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: COMING SOON!
 description: Explore our A Dimension
 github:
-is_project_page: false
+    is_project_page: false
